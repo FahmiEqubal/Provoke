@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>YT Video</title>
+    <style>
+      .head {
+        align-items: center;
+        text-align: center;
+        font-size: large;
+        color: red;
+        font-weight: 500;
+        background-color: rgb(39, 38, 38);
+      }
+      .play {
+        background: red;
+        border-radius: 50% / 10%;
+        color: #ffffff;
+        height: 1.5em;
+        margin: 20px auto;
+        padding: 0;
+      }
+      .yt {
+        align-items: center;
+      }
+    </style>
+  </head>
+  <body>
+    <h1 class="head">YT - Equbal Custom Player</h1>
+    <form class="yt" id="videoForm">
+      <label for="videoId">Enter YT Video ID:</label>
+      <input type="text" id="videoId" required />
+      <button class="play" type="button" onclick="loadVideo()">
+        Load YT Video
+      </button>
+    </form>
+    <div style="color: blue" id="videoTitle"></div>
+    <br />
+    <div class="yt" id="player"></div>
+
+    <script src="https://www.youtube.com/iframe_api"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
