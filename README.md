@@ -4,8 +4,9 @@ Hello, I'm Equbal Fahmi, a passionate developer with a keen interest in web tech
 
 ## Project: Provoke
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/65769e17648ed7338a177173/musical-malasada-e2da72)](https://65769e17648ed7338a177173--musical-malasada-e2da72.netlify.app/)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-green.svg)](https://github.com/fahmiequbal/Provoke)
+[(https://api.netlify.com/api/v1/badges/65769e17648ed7338a177173/musical-malasada-e2da72)](https://65769e17648ed7338a177173--musical-malasada-e2da72.netlify.app/)
+
+[(https://img.shields.io/badge/GitHub-Repository-green.svg)](https://github.com/fahmiequbal/Provoke)
 
 ### Overview
 
